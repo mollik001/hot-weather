@@ -1,16 +1,10 @@
 # hot_weather
 
-A new Flutter project.
+The hot_weather App is a simple and user-friendly mobile application that allows users to check the current weather and temperature for any city they search for. Stay informed about the weather conditions no matter where you are!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Real-time weather updates for any city worldwide.
+- Accurate temperature and weather condition information.
+- Easy-to-use search functionality to find weather data for specific locations.
+- Intuitive user interface for a seamless user experience.
